@@ -2,7 +2,7 @@
 CGI_Tools_assignment
 
 
-==============================================================================================================
+=====================================================================
 
 PROJECT NAME: CGI Tools - Maya Modellingg and Animation report Jan/2017
 
@@ -23,4 +23,4 @@ RESULT:
 It will create the first step, duplicate it and move the steps relative to each other forming the staircase.
 The code has four For loops corresponding to the four sections of the staircase
 
-==============================================================================================================
+=======================================================================
