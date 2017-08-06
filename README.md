@@ -1,6 +1,7 @@
 # MAYA_animation_assigment
 CGI_Tools_assignment
-
+The assignment brief describes the creation of a scene where animated ball bounces around on an Impossible Construction, inspired by the M.C. Escher constuctions. 
+Part of the contruction, the Impossible Staircase is generated using Python code. With the placement of the camera using the righ prespective, the illusion is created.
 
 =====================================================================
 
