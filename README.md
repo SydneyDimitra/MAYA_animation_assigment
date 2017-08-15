@@ -25,3 +25,6 @@ It will create the first step, duplicate it and move the steps relative to each 
 The code has four For loops corresponding to the four sections of the staircase
 
 =======================================================================
+
+Staircase structure:
+![alt text](https://github.com/SydneyDimitra/MAYA_animation_assigment/blob/master/images/staircase_structure.png "Staircase")
